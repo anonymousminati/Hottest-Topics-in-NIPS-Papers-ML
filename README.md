@@ -74,5 +74,3 @@ The dataset used in this project is publicly available and contains NIPS papers.
 ## Contributions
 Feel free to contribute to this project by improving the code, adding new features, or optimizing the existing implementation.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
